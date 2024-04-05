@@ -1,4 +1,4 @@
-# assignment-three-cop4520
+# Minotaur Birthday Party and Mars Rover
 
 ## Compilation and Execution
 ```bash 
